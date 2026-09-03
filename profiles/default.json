@@ -1,0 +1,21 @@
+{
+  "name": "Default",
+  "mode": "keyboard",
+  "mappings": {
+    "Cross": "SPACE",
+    "Circle": "ESC",
+    "Square": "E",
+    "Triangle": "Q",
+    "D-pad Up": "UP",
+    "D-pad Down": "DOWN",
+    "D-pad Left": "LEFT",
+    "D-pad Right": "RIGHT",
+    "L1": "SHIFT",
+    "R1": "CTRL",
+    "Options": "ENTER",
+    "Share": "TAB"
+  },
+  "deadzone": 0.15,
+  "lightbar": "#307CFF"
+}
+

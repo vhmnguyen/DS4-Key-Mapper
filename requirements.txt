@@ -1,0 +1,4 @@
+pygame>=2.6,<3
+hidapi>=0.14,<1
+vgamepad>=0.1.0,<1
+
