@@ -45,14 +45,14 @@ If input works but effects do not, completely exit Steam, DS4Windows, reWASD, an
 
 ## Project structure
 
-- `main.py` — entry point
-- `ds4mapper/app.py` — Tkinter user interface
-- `ds4mapper/input_device.py` — controller input through pygame/SDL
-- `ds4mapper/engine.py` — mapping loop
-- `ds4mapper/keyboard_output.py` — Windows keyboard output
-- `ds4mapper/xbox_output.py` — virtual Xbox output
-- `ds4mapper/ds4_output.py` — USB lightbar and vibration output
-- `profiles/default.json` — example profile
+- `main.py`: entry point
+- `ds4mapper/app.py`: Tkinter user interface
+- `ds4mapper/input_device.py`: controller input through pygame/SDL
+- `ds4mapper/engine.py`: mapping loop
+- `ds4mapper/keyboard_output.py`: Windows keyboard output
+- `ds4mapper/xbox_output.py`: virtual Xbox output
+- `ds4mapper/ds4_output.py`: USB lightbar and vibration output
+- `profiles/default.json`: example profile
 
 ## Current limitations
 
